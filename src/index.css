@@ -1,0 +1,97 @@
+.konten {
+  width: 50%;
+  margin: auto;
+}
+
+.search-box {
+  border: 1px solid black;
+  border-radius: 3px;
+  width: 100%;
+}
+
+.isi-form {
+  width: 87.9%;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.tombol-search {
+  width: 100%;
+  background-color: rgb(22, 163, 181);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+.tombol-add {
+  width: 10rem;
+  background-color: rgb(22, 163, 181);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+/* kanan */
+.search-kanan {
+  padding-top: 2.4rem;
+}
+
+.tiga-tombol {
+  width: 10rem;
+  background-color: rgb(22, 163, 181);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+.per-list {
+  height: 100%;
+  border: 1px solid #ddd;
+  margin-top: 10px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+}
+
+.tombol-bawah {
+  width: 10rem;
+  background-color: rgb(217, 54, 73);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+.kaca {
+  width: 2rem;
+  height: 2rem;
+  color: white;
+  background-color: rgb(22, 163, 181);
+  padding-top: 0.5rem;
+  border-radius: 3px 0 0 3px;
+}
+
+.pensil {
+  margin-left: 1rem;
+  color: #f7bf32;
+}
+
+.sampah {
+  margin-left: 1rem;
+  color: #d9384c;
+}
+
+.urutan {
+  list-style: none;
+}
+
+.tombol-submit {
+  width: 93%;
+  background-color: rgb(22, 163, 181);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
